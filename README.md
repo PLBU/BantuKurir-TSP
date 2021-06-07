@@ -41,6 +41,10 @@ Tambahkan sebuah fitur untuk menampilkan informasi pengiriman kurir dengan spesi
   - _Cost_/jarak terpendek dari jalur yang ditempuh
 4. Teknologi penyimpanan data (database) **dibebaskan** (**tidak boleh** menggunakan berkas txt, csv)
 
+Tambahkan fitur menyalakan animasi graf:
+1. Tambahkan animasi pada tampilan graf yang menampilkan urutan jalur yang akan ditempuh kurir
+2. Pengguna dapat memainkan animasi selama graf masi ditampilkan
+
 ## Asumsi Pengerjaan
 1. Jalur antar dua lokasi adalah garis lurus
 2. Setiap jalur yang ada berlaku dua arah
