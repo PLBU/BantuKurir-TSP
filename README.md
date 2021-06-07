@@ -39,9 +39,12 @@ Tambahkan sebuah fitur untuk menampilkan informasi pengiriman kurir dengan spesi
   - Waktu pengiriman
   - Estimasi waktu pengiriman selesai
   - _Cost_/jarak terpendek dari jalur yang ditempuh
-3. Asumsi tanggal pengiriman sama dengan tanggal pencarian jalur
 4. Teknologi penyimpanan data (database) **dibebaskan** (**tidak boleh** menggunakan berkas txt, csv)
 
+## Asumsi Pengerjaan
+1. Jalur antar dua lokasi adalah garis lurus
+2. Setiap jalur yang ada berlaku dua arah
+3. Tanggal pengiriman sama dengan tanggal pencarian jalur
 
 ## Komponen Penilaian
 1. Kebenaran program dan fungsionalitasnya
