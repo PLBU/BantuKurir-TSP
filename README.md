@@ -45,7 +45,7 @@ Algoritma TSP yang saya pakai menggunakan strategi Program Dinamis. Alasannya ka
 * CSS
 ### Libraries used
 * Material UI (UI sangat simpel dan populer, cocok untuk saya yang suka desain minimalis)
-* React Graph Vis (Library tentang Graf yang sangat lengkap dan telah memiliki built-in animasi)
+* React Graph Vis (Library tentang Graf yang lengkap)
 * React Router Dom (Routing yang lebih cepat)
 * Moment.js (Mempermudah formatting Date object Javascript)
 
