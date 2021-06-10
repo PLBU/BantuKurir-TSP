@@ -1,0 +1,7 @@
+.slide-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: no-wrap;
+    overflow-x: scroll;
+    width: 100vw;
+}
