@@ -15,7 +15,7 @@ Koordinat lokasi perusahaan (x y)
 Semua nama lokasi yang dituju (diselangi koordinatnya)
 Koordinat semua titik yang ada (x y)
 Nama Kurir
-Kecepatan kurir (1 satuan kotak xy/menit)
+Kecepatan kurir (1m/menit)
 Waktu Pengiriman (HH:MM)
 Tanggal Pengiriman (DD-MM-YYYY)
 ```
@@ -33,9 +33,9 @@ C
 D
 1 2
 Kurirando Johndo
+5
 14:05
 09-06-2021
-5
 ```
 
 ### Algoritma TSP
